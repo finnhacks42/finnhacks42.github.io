@@ -4,6 +4,8 @@ author: Finn Lattimore
 avatar: /finn_headshot.png
 email: finnlattimore@gmail.com
 
+skin: daylight
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
